@@ -24,6 +24,7 @@ You will need each of the following Python packages:
 * SciPy
 * Matplotlib
 * Pandas
+* openpyxl
 * Astropy
 
 To download each of the package, go to the **Command Prompt** (Windows) or **Terminal** (Mac). Then, type ```pip install package_name``` (where the package name is all lowercase) and press ```enter```.
